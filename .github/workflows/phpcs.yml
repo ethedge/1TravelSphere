@@ -18,7 +18,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: change directory
+      - name: Change directory
         run: cd 1TravelSphere
 
       - name: Install PHP_CodeSniffer
