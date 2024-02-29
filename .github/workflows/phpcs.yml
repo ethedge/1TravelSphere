@@ -18,12 +18,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install Dependencies and Lint
+      - name: Install Dependencies
         run: |
-          cd path/to/directory/with/composer.json
+          cd home/runner/work/1TravelSphere/1TravelSphere
           composer install
-          # Run your linter command here
-        working-directory: home/runner/work/1TravelSphere/1TravelSphere
 
       - name: Install PHP_CodeSniffer
         run: composer require --dev squizlabs/php_codesniffer
