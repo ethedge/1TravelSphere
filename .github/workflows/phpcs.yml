@@ -18,11 +18,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Change directory
-        run: cd 1TravelSphere
-
-      - name: Install PHP_CodeSniffer
-        run: composer require --dev squizlabs/php_codesniffer
-
       - name: Run PHP_CodeSniffer
         run: vendor/bin/phpcs
