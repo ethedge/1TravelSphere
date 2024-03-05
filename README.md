@@ -8,10 +8,9 @@ https://gyazo.com/b0976dc6f3d3ed6c9289c34bc83ef7a3
 - Create a Virtual Private Server
 - LAMP Stack Installation
 - phpBB Installation & Configuration
+- Install and configure phpMyAdmin
 - Commit all phpBB files to GitHub Repository
 - Setup Forum for Front-end Customization
-
-**In progress features**
 - Additional Configuration & Documentation
 
 **Product Goal**
