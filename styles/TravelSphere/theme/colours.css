@@ -218,7 +218,7 @@ dl.details dd {
 }
 
 .sep {
-	color: #394033;
+	color: #b99a45;
 }
 
 /* Icon styles
@@ -376,7 +376,7 @@ li.row:hover dd {
 
 li.header dt,
 li.header dd {
-	color: #e1e6d8;
+	color: #b99a45;
 }
 
 /* Post body styles
@@ -584,7 +584,7 @@ fieldset.polls dd div {
 	border-left-color: #d11a4e;
 }
 
-/* Poster profile block
+/* Poster  block
 ----------------------------------------*/
 .postprofile {
 	color: #b8b8b8;
@@ -596,7 +596,7 @@ fieldset.polls dd div {
 }
 
 .postprofile strong {
-	color: #648127;
+	color: #b99a45;
 }
 
 .online {
@@ -694,7 +694,7 @@ Colours and backgrounds for buttons.css
 }
 
 .search-header {
-	box-shadow: 0 0 10px #8caa54;
+	box-shadow: 0 0 10px #b99a45;
 }
 
 .search-results li:hover,
