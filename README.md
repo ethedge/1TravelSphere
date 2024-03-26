@@ -3,7 +3,7 @@ Team Number: 2
 SPRINT 2:
 
 **Screenshot of our program in its current state**
-
+https://i.gyazo.com/ab83d8cb8aec312db519f4288b4d0125.png
 
 **Completed features**
 - Create and add company logo
@@ -35,5 +35,5 @@ Development Environment: Ensure the domain is set up for collaborative developme
 **Definition of done**
 Our definition of done is defined as:
 - All features committed to the sprint are implemented and the the acceptance criteria has been met. 
-- Code changes have been reviewed by at least 1  team members, alongside the linter that has been implemented.
+- Code changes have been reviewed by at least 1  team members
 - Code that has passed through the linter
