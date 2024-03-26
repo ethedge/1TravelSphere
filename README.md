@@ -1,5 +1,7 @@
 Team Name: Team Dominguez (Team #2)
 
+This GitHub repository contains phpBB source files for the TravelSphere website. Modified source files have been merged into the main branch. This repository is a replication of what is currently being run on the VPS. Access to our website will be provided below. 
+
 **Screenshot of our program in its current state**
 ![image](https://github.com/ethedge/1TravelSphere/assets/158501435/f0fb891b-355f-43e3-9511-aa99f748b877)
 
