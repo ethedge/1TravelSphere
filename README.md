@@ -3,7 +3,8 @@ Team Number: 2
 SPRINT 2:
 
 **Screenshot of our program in its current state**
-https://i.gyazo.com/ab83d8cb8aec312db519f4288b4d0125.png
+![image](https://github.com/ethedge/1TravelSphere/assets/158501435/4c1fc153-b93f-40bd-85da-50afe07eeb0b)
+
 
 **Completed features**
 - Create and add company logo
