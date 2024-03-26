@@ -1,7 +1,5 @@
 Team Name: Team Dominguez (Team #2)
 
-This GitHub repository contains phpBB source files for the TravelSphere website. Modified source files have been merged into the main branch. This repository is a replication of what is currently being run on the VPS. Access to our website will be provided below. 
-
 **Screenshot of our program in its current state**
 ![image](https://github.com/ethedge/1TravelSphere/assets/158501435/f0fb891b-355f-43e3-9511-aa99f748b877)
 
@@ -44,3 +42,17 @@ Our definition of done is defined as:
 - All features committed to the sprint are implemented and the the acceptance criteria has been met. 
 - Code changes have been reviewed by at least 1  team members
 - Code that has passed through the linter
+
+**How to deploy the website?**
+This GitHub repository contains phpBB source files. Modified source files have been merged into the main branch. This repository is a replication of what is currently being run on the VPS, which is hosting our domain. Here is a step-by-step guide on how to deploy the website on your own system:
+
+1. **Download phpBB:** Go to the phpBB website and download the latest version of the forum software.
+2. **Setup a local server enviornment:** A local server environment is required to run Apache and MySQL. XAMPP can be used. 
+3. **Create database:** Once Apache and MySQL are configured and running, open your web browser and go to http://localhost/phpmyadmin/. Here, you can create a new MySQL database for phpBB to use. 
+4. **Access phpBB installer:** Open your web browser and navigate to http://localhost/phpbb/install/.
+5. **Follow the installer:** The phpBB installer will guide you through the installation process step by step. You'll be prompted to enter database connection details, administrator account information, and other configuration settings.
+6. **Database configuration:** During the installation process, provide the requested database details (from the database you made earlier), including the database name, username, password, and database server (localhost).
+7. **Remove the install directory:** After the installation is complete, for security reasons, delete the install/ directory from your phpBB installation directory.
+8. **Access your phpBB forum:** You can now access your phpBB forum by going to http://localhost/phpbb/ in your web browser.
+9. **Integrate our changes to the forum:** You can now download this Github respository, and replaces the default files generated upon phpBB deployment. This will allow you to run the forum, with all our changes.
+10. **Activate TravelSphere style:** After porting our files over, navigate to ACP, and activate the TravelSphere style. 
