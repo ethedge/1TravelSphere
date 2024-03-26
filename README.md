@@ -11,6 +11,7 @@ http://travelsphere.lol/phpBB3/index.php?sid=bf81a7edb87b2d749cf3a445270bc886
 
 **Completed features by end of second sprint**
 - Purchased, configured and set up Ubuntu based VPS with DigitalOcean
+- Installed LAMP stack on VPS
 - Installed phpBB forun software on VPS
 - Created and added company logo to website
 - Gathered all images/assets that will be used on website
