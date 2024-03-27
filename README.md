@@ -1,5 +1,8 @@
 Team Name: Team Dominguez (Team #2)
 
+TravelSphere, a travel forum deployed on phpBB to facilitate connections between like-minded individuals who wish to connect on different topics related to travel.
+
+
 **Screenshot of our program in its current state**
 ![image](https://github.com/ethedge/1TravelSphere/assets/158501435/f0fb891b-355f-43e3-9511-aa99f748b877)
 
